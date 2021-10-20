@@ -1,5 +1,5 @@
 const nameGirl = 'hot girl Uni05';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/suunhi.6623';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Send chị em uni05';
 const contentCard = 'Chúc chị em Uni05 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với mn trong hôm nay và cả những ngày sau';
